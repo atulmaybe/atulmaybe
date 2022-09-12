@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atul</h1>
 <h3 align="center">I am into AI, Machine learning, Web Development and Java Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulmaybe&label=Profile%20views&color=0e75b6&style=flat" alt="atulmaybe" /> </p>
-
-<p align="left"> <a href="https://twitter.com/atulmaybe" target="_blank"><img src="https://img.shields.io/twitter/follow/atulmaybe?logo=twitter&style=for-the-badge" alt="maybeatul_" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulthakur2000) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/atulmaybe) 
 
 - 💬 Ask me about **react, JavaScript, Java, Python, ML, C, C++**
 
@@ -23,12 +22,4 @@ Angular, Image Processing and document extraction
 ![](https://github-readme-streak-stats.herokuapp.com/?user=atulmaybe&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atulmaybe&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=atulmaybe&icon=0&color=0)](https://visitcount.itsvg.in)
 
