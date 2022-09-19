@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulthakur2000) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/atulmaybe) 
 
-- 💬 Ask me about **react, JavaScript, Java, Python, ML, C, C++**
+- 💬 Ask me about **react, JavaScript, Java, Python, ML, C, C++ and SQL**
 
 - 📫 How to reach me **thakuratul9373@gmail.com**
 
