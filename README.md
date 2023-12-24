@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atul</h1>
-<h3 align="center">I am into AI, Machine learning, Web Development and Java Development</h3>
+<h3 align="center">I am into  Web Development, Java Development, AI and Machine learning</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atulthakur2000) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/atulmaybe) 
