@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul</h1>
 <h3 align="center">I am into  Web Development, Java Development, AI and Machine learning</h3>
 
-## 🌐 Socials:
-
 - 💬 Ask me about **react, JavaScript, Java,ruby, Python, ML and SQL**
 
 - 📫 How to reach me **thakuratul9373@gmail.com**
